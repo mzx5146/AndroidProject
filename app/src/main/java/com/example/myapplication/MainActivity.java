@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
         });
     }
 
-    //弹窗确定是否重启
+    //弹窗确定是否重启1
     private void showRebootDialog() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
         builder.setTitle("Phone Reboot");
